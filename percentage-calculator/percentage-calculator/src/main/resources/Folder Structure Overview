@@ -1,1 +1,19 @@
-Folder Structure Overview
+percentage-calculator/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── example/
+│   │   │           └── calculator/
+│   │   │               ├── CalculatorApplication.java    
+│   │   │               ├── controller/
+│   │   │               │   └── CalculatorController.java  
+│   │   │               └── model/
+│   │   │                   └── CalculationRequest.java     
+│   │   └── resources/
+│   │       ├── application.properties  
+│   │       └── static/
+│   │           ├── index.html         
+│   │           ├── style.css          
+│   │           └── script.js          
+└── pom.xml  
